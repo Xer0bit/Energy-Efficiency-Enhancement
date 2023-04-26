@@ -3,7 +3,7 @@ Enhancing electrical device efficiency
 author: Taha Imtiaz
 
 
-Reading Data
+##Reading Data
 
 The first cell reads a dataset from a CSV file named dataset.csv using Pandas. It also includes an error handling mechanism in case the file is not found.
 Data Preprocessing
