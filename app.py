@@ -59,7 +59,15 @@ class DeviceEfficiencyGUI(QWidget):
         min_consumption = float(self.min_consumption_input.text())
         max_consumption = float(self.max_consumption_input.text())
 
-        #if min_consumption > max_consumption then error
+
+        if not device_name or not min_consumption or not max_consumption:
+            self.normal_efficiency_output_label.setText('Error: All fields are required')
+            self.enhanced_efficiency_output_label.setText('Error: All fields are required')
+            return
+        
+
+
+
         if min_consumption > max_consumption:
             self.normal_efficiency_output_label.setText('Error: Minimum consumption must be less than maximum consumption')
             self.enhanced_efficiency_output_label.setText('Error: Minimum consumption must be less than maximum consumption')
