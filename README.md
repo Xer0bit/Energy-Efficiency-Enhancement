@@ -3,10 +3,10 @@ Enhancing electrical device efficiency
 author: Taha Imtiaz
 
 
-##Reading Data
+*Reading Data*
 
 The first cell reads a dataset from a CSV file named dataset.csv using Pandas. It also includes an error handling mechanism in case the file is not found.
-Data Preprocessing
+*Data Preprocessing*
 
 The second cell generates random input power consumption and working hours for each data point in the dataset. Then, it calculates the output power and efficiency, and creates two new columns in the dataset for these values.
 
