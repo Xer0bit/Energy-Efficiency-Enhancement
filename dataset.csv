@@ -1,0 +1,301 @@
+device_name,min_consumption,max_consumption,device_age
+bulb,100,120,3
+LED TV 42 INCH,58,60,5
+3''belt sander,1000,1000,4
+Air cooler,65,80,4
+Air purifier,25,30,3
+Amazon echo dot,2,3,5
+Amazon echo show,2,4,5
+fridge,40,80,6
+Aquarium,20,50,5
+Apple Tv,3,6,4
+Bathroom towel h,60,150,1
+fan,60,70,1
+Clock radio,1,2,6
+Cloth dryer,1000,4000,4
+coffee maker,800,1400,2
+Computer monitor,25,30,2
+Cooker Hood,20,30,2
+Corded drill,600,850,5
+Drill charger,70,150,4
+Cpap machine,30,60,2
+Curling iron,25,35,3
+DAB mains radio,5,9,4
+dekstop computer,100,450,1
+Dishwasher,1200,1500,3
+Domestic water pump,200,300,6
+DVD player,26,60,4
+Electric boiler,8000,14000,6
+Electric heater fan,2000,3000,6
+Electric kettle,1200,3000,3
+Electric shaver,15,20,3
+Electric water heater,6600,8800,2
+ispresso coffee machine,1300,1500,6
+EV car charger,2000,7000,3
+EV home charger,1600,3400,1
+External harddrive,1,3,5
+Flouresent lamp,28,45,4
+Food blender,300,400,4
+freezer,30,50,1
+fridge,100,220,2
+game console,120,200,1
+gaming pc,300,600,2
+girrage door opener,300,400,5
+Guitar amplifier,20,30,4
+Hair blow dryer,1800,2500,3
+heated bathroom mirror,50,100,2
+home airconditioner,1000,4000,5
+Internet router,5,15,4
+Phone,3,5,2
+hot water dispenser,1200,1300,6
+humidifier,35,40,2
+iMac,60,240,5
+Induction Hop,1400,1800,1
+inkject printer,20,30,2
+Air conditioner,1300,1800,3
+jacuzzi,3000,7500,2
+laptop,50,100,4
+lazer printer,600,800,6
+lawn mower,1000,1400,5
+led bulb,7,10,2
+LG sound bar,23,30,4
+Mi box,5,7,5
+Microwave,600,1700,1
+Outdoor hot tub,60,500,5
+paper shredder,200,220,3
+pedestel fan,50,60,3
+percolator,800,1100,6
+philips smart bulb,8,9,1
+phone charger,4,7,5
+playstation 5,160,200,6
+portable Airconditioner,1000,1200,4
+power shower,7500,10500,4
+projector,220,270,3
+refrigerator,100,200,5
+Rice cooker,200,800,6
+Ring spotlight cam,25,4,2
+sandwitch maker,700,1000,1
+scanner,10,18,5
+set top box,23,30,5
+sewing machine,70,80,4
+slow cooker,160,180,1
+smoke detector,0,1,6
+space heater,2000,5000,2
+steam iron,2300,2500,1
+straightner,75,300,3
+strimmer,300,500,4
+waterpump,200,400,3
+table fan,10,25,1
+mini fridge,10,15,6
+tablet charger,10,15,5
+tablet computer,5,10,2
+toaster,800,1800,6
+treadmill,280,900,5
+vaccum cleaner,450,900,5
+wall fan,45,60,6
+water filter and cooler,70,100,2
+Xbox,50,110,6
+bread maker,500,1500,5
+blender,300,1000,4
+copier,23.3,26.6,4
+Cloth dryer,1800,5000,4
+100 watt light bulb,100,100,3
+24 inch LED tv,17,17,6
+25'' color Tv,150,150,1
+3'' belt sander,1000,1000,5
+32 inc LED tv,20,60,5
+42 inch plasma Tv,450,600,1
+46 inch LED tv,60,70,5
+49 inch LED tv,85,85,5
+55 inch LED tv,116,117,1
+60 watt light bulb,60,60,3
+65 inch LED tv,120,130,2
+82 inch LED tv,228,295,5
+9'' disc sender,1200,1200,2
+Air fryer,1500,1500,1
+Amazon echo,300,300,5
+AV reciever,450,450,3
+chrome book,45,46.5,5
+chrome cast,2,2.5,6
+Deep freezer,19,19.56,6
+Dehumidifier,240,241.67,5
+Electric blanket,199.5,200,6
+Electric doorbell transformer,2,2.87,6
+Electric mower,1500,1500.67,6
+Electric pressur cooker,1000,1000.56,5
+Electric stove,1999,2000,2
+Electric thermal radiator,500,502.34,2
+Electric toothbrush charger,6,7,2
+Evaporative Air conditioner,2600,2600.78,4
+Extractor fan,11.56,12,3
+Food dehydrator,798,800,6
+Fryer,1000,1001,2
+Google home mini,14,15,4
+Handwash oversink water heater,3000,3002.5,4
+Heated hair roller,400,403.56,1
+Home sound system,95,98,4
+Hot water immergant heater,3000,3000.67,5
+Iron,999.67,1000,5
+Kitchen extractor fan,200.56,200.89,2
+LED christman light,5,5.87,2
+Night light,0.5,1,3
+Oven,21,50,4
+pressure cooker,700,700.89,6
+Pressure washer,1500,1500.45,4
+Singer sewing machine,100,102,5
+Sky Q 2TB box,40,40.98,3
+STERILISER,148,150,3
+Tubelight 1500 mm,25,26.67,3
+Washing machine,499.67,500,1
+Water despensar,99,100,1
+Water feature,34.5,35,3
+Wine cooler,83.4,83.78,3
+CADR Air purifier,2.5,4.4,4
+Xbox 1,50,110,3
+Window Air conditioner,500,1500,1
+Wifi booster,1,2,1
+Tv 19 color,40,100,5
+tower fan,59.7,60,4
+table top fridge,10,15,1
+submersible water,200,400,6
+strimmer,300,500,1
+LCOS projector,250,280,3
+Table Air conditioner,1000,1200,5
+PS station 4,85,90,5
+nintendo switch AC adopter,7,40,4
+invertor airconditioner,1300,1800,3
+hot water emergent heater ''1,3000,3001.23,4
+phone sound system,35,35.67,6
+Home phone,3,5,1
+Home internet router ,5,15,5
+Can opener,150,156,3
+Garbage disposal,450,451,5
+Electric oven,1199,1200.67,4
+toaster oven,1200,1202,3
+Stand mixer,300,305,5
+Box fan,200,203.56,6
+furnace fan blower,789,800,3
+space heater NA,1456,1500,5
+electric tankless water heater,1000,1003.56,6
+well pump,750,767,1
+gas cloth dryer,1800,1800.38,4
+cloth washer,799,800,2
+Bluray player,15,15.789,2
+Cable box,33,35,1
+Tv LCD,145,150,6
+TV plasma,200,200.67,3
+Satellite dish,25,26,2
+stereo reciever,450,456,6
+Video game console,143,150,2
+CFL bulb-40 watt equivalent,11,12,2
+CFL bulb-60 watt equivalent,17,18,4
+CFL bulb-75 watt equivalent,19.5,20,6
+CFL bulb-100 watt equivalent,28,30,1
+Compact fluorescent 20 Watt,21,22,6
+Compact fluorescent 25Watt,26.5,28,5
+Halogen- 40 watt,40,43,3
+Incandescent 50 watt,45,50,5
+Incandescent 100 watt,97.8,100,4
+LED bulb-40watt equivalent,10,11,6
+LED bulb-60watt equivalent,13,14.5,3
+LED bulb-75watt equivalent,18,18.98,5
+LED bulb-100watt equivalent,23,25,6
+Desktop computer standard,200,203,2
+Desktop computer gaming,500,504,3
+LCD monitor,99.678,100,6
+modem,7,8,3
+Printer,100,109,1
+router,7,7.78,4
+Smart phone/ recharge,6,8,6
+tablet recharge,8,8.9,1
+Band saw-14'',1100,1104,2
+chainsaw-12'',1100,1101.564,6
+circular saw-7-1/4'',200,203,1
+circular saw 8-1/4'',1400,1404,4
+Disc sender-9'',1200,1204,2
+Drill-1/4'',250,256,2
+Drill-1/2'',750,755.78,2
+Drill-1'',1000,1003.5,5
+Hedge trimmer,450,456,4
+weed eater,500,506,5
+Radio telephone- recieve,5,6,4
+Radio telephone- transmit,75,78,2
+vaccum ,1000,1009,1
+television,1,22,3
+VCR,1,30,5
+Hertz TV decoder,9,16,6
+Satellite dish decoder,5,17,5
+cable tv decoder,3,23,6
+Hi-fi stereo,1,24,5
+voltage stablizer,14,18,4
+kitchen oven,6,18,2
+induction cook top,4,18,4
+Miscellaneous hi-tv-video,4,34,6
+Tumble dryer,1800,5000,1
+PCs,5,250,2
+intel Low end CPU (core i3),55,73,6
+intel Mid end CPU (core i5),73,95,4
+intel High end CPU (core i7),77,95,2
+intel top end CPU (core i7-E),130,150,3
+intel Low end CPU (2 cores),65,95,1
+intel Mid end CPU (4cores),65,125,4
+intel High end CPU (8cores ),95,125,1
+DDR1 RAM(2.5 volt),4,5.5,6
+DDR2 RAM(1.8 volt),3,4.5,5
+DDR3 RAM(1.5 volt),2,3,5
+Solid state drive SSD,0.6,2.8,3
+2.5'' Hard disk drive HDD,0.7,3,6
+3.5'' Hard disk drive HDD,6.5,9,6
+SATA DVD Driev,15,27,1
+SATA blue ray drive,25,30,5
+80mm Case Fan(2000 RPM),0.6,1.8,6
+80mm Case Fan(3000 RPM),2.4,3,1
+120mm Case Fan(1200 RPM),0.6,2.3,5
+120mm Case Fan(2000 RPM),3.6,6,3
+140mm Case Fan(1000 RPM),0.9,1.7,4
+140mm Case Fan(2000 RPM),4.2,6,3
+"Central AC(10,000 BTU)",1500,4500,5
+"Central AC(24,000 BTU)",3800,11400,4
+"Central AC(40,000 BTU)",6000,6700,1
+Electric water heater(immergant),4000,3000,4
+Evaporated AC,400,700,1
+furnace fan blower(1/3 HP),700,1400,6
+garage door opener,875,2300,6
+Heat pump,4700,4500,1
+humidifier(13 Gal),172,0,6
+Light bulb(common),75,80,2
+Hump pump,1050,2150,5
+Hump pump 1/3,800,1300,4
+Well water pump (1/2),1000,2100,5
+Window AC 10000 (BTU),1200,3600,4
+Window AC 12000 (BTU),3250,9750,2
+Electric can opener,240,860,1
+Electric stove (8'' Element),2000,5000,2
+Food processor/blender,400,700,4
+Induction Hob (Per Hob),400,1400,1
+Modern fridge(2001-202),400,600,3
+Side by side fridge,800,900,5
+Smart fridge,500,700,4
+Toaster,500,1800,5
+Cloth dryer electric,5400,6750,5
+Cloth dryer gas,700,1800,4
+stereo ,50,200,5
+Television 22'' LED,17,20,2
+Television 49'' LED,85,90,2
+Television 82'' LED,65,230,5
+Television (CRT),500,505.67,6
+Video game system,40,45,4
+2/V radio(12A),360,365,6
+2/V radio(23A),840,867,4
+2/V radio(35A),960,967,6
+Cellphone battery charger,5,10,3
+copy machine,220,240,4
+DAV main,4,5,6
+Electric trimmer,300,500,3
+Fan padestal,10,50,4
+Fan table,10,15,1
+Fan wall,15,45,6
+Fax,60,80,5
+outdoor light string,250,256,4
+Security system,3,5,2
+lamp(twolightbulbs),15,25,6
