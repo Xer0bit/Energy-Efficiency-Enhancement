@@ -59,6 +59,11 @@ class DeviceEfficiencyGUI(QWidget):
         min_consumption = float(self.min_consumption_input.text())
         max_consumption = float(self.max_consumption_input.text())
 
+        #if input is less then 0 or empty then display error message
+        if min_consumption < 0 or max_consumption < 0:
+            self.normal_efficiency_output_label.setText('Error: Consumption cannot be less than 0')
+            self.enhanced_efficiency_output_label.setText('Error: Consumption cannot be less than 0')
+            return
 
         if not device_name or not min_consumption or not max_consumption:
             self.normal_efficiency_output_label.setText('Error: All fields are required')
