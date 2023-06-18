@@ -106,8 +106,8 @@ class DeviceEfficiencyGUI(QWidget):
         enhanced_efficiency = predict_enhanced_efficiency(min_consumption, max_consumption, input_power)
 
         self.device_name_output_label.setText(f'Device name: {device_name}')
-        self.normal_efficiency_output_label.setText(f'Normal efficiency: {normal_efficiency}')
-        self.enhanced_efficiency_output_label.setText(f'Enhanced efficiency: {enhanced_efficiency}')
+        self.normal_efficiency_output_label.setText(f'Normal efficiency: {normal_efficiency}'+"%")
+        self.enhanced_efficiency_output_label.setText(f'Enhanced efficiency: {enhanced_efficiency}'+"%")
 
 
 if __name__ == '__main__':
